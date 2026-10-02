@@ -2,7 +2,7 @@
 session_start();
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'spill_the_tea');
+define('DB_NAME', '');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
